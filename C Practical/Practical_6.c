@@ -10,7 +10,7 @@ int main()
     float b, c, p;
     float T, H;
 
-    // Input for first two formulas
+    
     printf("Enter u, a, t: ");
     scanf("%f %f %f", &u, &a, &t);
 
@@ -20,14 +20,14 @@ int main()
     printf("V = %.2f\n", v);
     printf("S = %.2f\n", s);
 
-    // Input for third formula
+    
     printf("Enter a, b, c: ");
     scanf("%f %f %f", &a, &b, &c);
 
     T = 2 * a + sqrt(b) + 9 * c;
     printf("T = %.2f\n", T);
 
-    // Input for fourth formula
+    
     printf("Enter b, p: ");
     scanf("%f %f", &b, &p);
 

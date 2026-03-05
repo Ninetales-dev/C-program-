@@ -16,7 +16,7 @@ int main()
         printf("It is a vowel");
     }
     else {
-        printf("It is a constant");
+        printf("It is a consonant");
     }
     return 0;    
 }
